@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "After LIKE",
   "base_artist": "IVE",
-  "createdAt": "2025-12-18T15:29:02.750272Z",
+  "createdAt": "2026-03-19T09:16:32.676640Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "IVE",
       "has_synced": false,
       "path": "select/pl_01_After_LIKE_IVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "After LIKE",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/localdb_01_After_LIKE_IVE.lrc",
+      "repo_name": "F0B7HDiY-10"
     }
   ]
 }
